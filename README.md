@@ -70,3 +70,39 @@ git add .
 ```
 
 Staging allows developers to choose which changes will be included in the next commit.
+
+###`git commit`
+
+The `git commit` command saves the staged changes as a snapshot in the local Git repository. Each commit should include a clear message that explains the purpose of the changes.
+
+Example:
+
+```bash
+git commit -m "Add basic Git commands section"
+```
+
+A commit records the changes locally, but it does not upload them to GitHub.
+
+### `git push`
+
+The `git push` command uploads committed changes from the local repository to a remote repository such as GitHub.
+
+Example:
+
+```bash
+git push origin main
+```
+
+In this example, `origin` refers to the remote repository and `main` is the branch being pushed.
+
+### `git pull`
+
+The `git pull` command retrieves changes from a remote repository and combines them with the current local branch.
+
+Example:
+
+```bash
+git pull origin main
+```
+
+This command is useful when other contributors have updated the remote repository and you need the latest version before continuing your work.
