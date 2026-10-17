@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a practicxal beginner's guide to using Git. It helps new users understand what Git is, how to set it up, and how manage changes with basic Git commands.
+This project is a practicxal beginner's guide to using Git. It helps new users understand what Git is, how to set it up, and how to manage changes with basic Git commands.
 
 ## What You'll Learn
 
