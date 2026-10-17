@@ -40,3 +40,40 @@ To check if Git was installed correctly, open your terminal and enter:
 If Git is installed, you should see a version number, such as `git version 2.51.0`.
 
 You can also find instructions for macOS and Linux on the official Git website.
+
+
+## How to Configure Git
+
+After installing Git, the next step is to set up your name and email address. Git uses this information to identify who made each commit in a project.
+
+### Setting Up Your Name and Email
+
+Open PowerShell or the terminal in VS Code and enter these commands:
+
+**Set your name:**
+
+`git config --global user.name "Your Name"`
+
+**Set your email:**
+
+`git config --global user.email "you@example.com"`
+
+Replace "Your Name" and "you@example.com" with your own information. If you're using GitHub, you can use the email connected to your account or your GitHub private email address.
+
+The `--global` option means Git will use these settings for all repositories on your computer, so you don't have to enter them every time you start a new project.
+
+### Checking Your Configuration
+
+To make sure everything was saved correctly, you can check your settings with these commands:
+
+`git config --global user.name`
+
+`git config --global user.email`
+
+Git should display the name and email you entered earlier.
+
+You can also view all your Git settings by running:
+
+`git config --list`
+
+Once your name and email are configured, you're ready to start using Git to track changes in your projects.
