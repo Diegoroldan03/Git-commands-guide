@@ -106,3 +106,39 @@ git pull origin main
 ```
 
 This command is useful when other contributors have updated the remote repository and you need the latest version before continuing your work.
+
+### Basic Git Workflow Example
+
+A common Git workflow follows these steps:
+
+1. Check the current repository status:
+
+```bash
+git status
+```
+
+2. Stage the files you want to include in the next commit:
+
+```bash
+git add .
+```
+
+3. Save the staged changes with a descriptive commit message:
+
+```bash
+git commit -m "Update project files"
+```
+
+4. Upload the committed changes to GitHub:
+
+```bash
+git push origin main
+```
+
+5. Before starting new work, retrieve the latest changes from GitHub:
+
+```bash
+git pull origin main
+```
+
+Using these commands in sequence helps developers track changes, save progress, and keep local and remote repositories synchronized.
