@@ -20,7 +20,7 @@ This project is a beginner-friendly guide to Git. Our goal is to help new users 
 
 This guide is divided into two main sections:
 
-1. Git Introduction and Setup
+1. [Git Introduction and Setup] (git-setup.md)
 2. Basic Git Commands and Examples
 
 ## Part 2: Basic Git Commands and Examples
