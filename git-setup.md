@@ -3,7 +3,7 @@
 
 ## What Is Git?
 
-Git is a version control system that helps developers track changes in their projects. It allows to save different versions of the work and go back to previous versions if something goes wrong.
+Git is a version control system that helps developers track changes in their projects. It allows developers to save different versions of their work and go back to an earlier version if something goes wrong.
 
 ## Why Is Git Useful?
 
