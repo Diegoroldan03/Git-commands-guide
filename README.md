@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a beginner-friendly guide to Git. Our goal is to help new users understand what Git is, how to set it up, and how to use basic Git commands.
+This project is a practicxal beginner's guide to Git. Our goal is to help new users understand what Git is, how to set it up, and how to use basic Git commands.
 
 ## What You'll Learn
 
