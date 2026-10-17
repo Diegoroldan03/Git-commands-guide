@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-
-This guide helps beginners understand Git, install it on their computers, and learn how to manage changes in their projects.
-
+This project is a practicxal beginner's guide to using Git. It helps new users understand what Git is, how to set it up, and how to manage changes with basic Git commands.
 
 ## What You'll Learn
 
