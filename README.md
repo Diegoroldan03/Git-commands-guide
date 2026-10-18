@@ -71,7 +71,7 @@ git add .
 
 Staging allows developers to choose which changes will be included in the next commit.
 
-###`git commit`
+### `git commit`
 
 The `git commit` command saves the staged changes as a snapshot in the local Git repository. Each commit should include a clear message that explains the purpose of the changes.
 
