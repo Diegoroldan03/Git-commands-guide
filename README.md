@@ -142,3 +142,7 @@ git pull origin main
 ```
 
 Using these commands in sequence helps developers track changes, save progress, and keep local and remote repositories synchronized.
+
+## Project Screencasts
+
+[Tracy's project screencast](https://www.loom.com/share/75eacd8366ff48d0bebdcf609c336b9e)
