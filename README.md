@@ -146,3 +146,5 @@ Using these commands in sequence helps developers track changes, save progress, 
 ## Project Screencasts
 
 [Tracy's project screencast](https://www.loom.com/share/75eacd8366ff48d0bebdcf609c336b9e)
+
+[Diego's project screencast](https://youtu.be/ORMGZ0zezxY)
